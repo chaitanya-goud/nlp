@@ -28,8 +28,7 @@ This project implements a movie search engine using an optimized search function
 ## Dataset link
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/movie-search-evaluation.git
-   cd movie-search-evaluation
+##detailed instructions and explanation in the below link
+https://www.canva.com/design/DAGY3dEOjgA/plPBXrUshEaxHgv9CSt8JA/view?utm_content=DAGY3dEOjgA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfef7f189fc
+
+
