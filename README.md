@@ -28,7 +28,7 @@ This project implements a movie search engine using an optimized search function
 ## Dataset link
 https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
 
-##detailed instructions and explanation in the below link
+## detailed instructions and explanation in the below link
 https://www.canva.com/design/DAGY3dEOjgA/plPBXrUshEaxHgv9CSt8JA/view?utm_content=DAGY3dEOjgA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hfef7f189fc
 
 
