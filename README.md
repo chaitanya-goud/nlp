@@ -25,6 +25,9 @@ This project implements a movie search engine using an optimized search function
 - sklearn.metrics
 - seaborn
 
+## Dataset link
+https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows
+
 ## Installation
 1. Clone the repository:
    ```bash
